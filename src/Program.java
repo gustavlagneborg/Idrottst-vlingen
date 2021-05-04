@@ -1,4 +1,4 @@
-//Gustav Lagneborg, gula4048.
+//Gustav Lagneborg, gula4048.sssssss
 
 import java.util.Scanner;
 import java.util.ArrayList;
